@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.secureshield.antivirus'
+    namespace 'com.android.system.update'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.secureshield.antivirus"
+        applicationId "com.android.system.update"
         minSdk 21
         targetSdk 34
         versionCode 1
